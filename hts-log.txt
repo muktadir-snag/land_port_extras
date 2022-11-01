@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 31 Oct 2022 12:02:59 at https://www.abports.co.uk/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.abports.co.uk/ -O1 "D:\PSPLL" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:04:28	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.abports.co.uk/)
+12:13:13	Warning: 	Found for https://www.abports.co.uk/news-and-media/media-contacts/
+12:13:13	Warning: 	File has moved from https://www.abports.co.uk/news-and-media/media-contacts/ to /contacts/media/
+12:13:13	Warning: 	Found for https://www.abports.co.uk/news-and-media/annual-review-2022/
+12:13:13	Warning: 	File has moved from https://www.abports.co.uk/news-and-media/annual-review-2022/ to /annual-review-2022/
+12:14:38	Warning: 	Link https://www.abports.co.uk/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+12:14:38	Warning: 	Found for https://www.abports.co.uk/2021-report-magazine-issue-15/
+12:14:38	Warning: 	Warning moved treated for https://www.abports.co.uk/2021-report-magazine-issue-15/ (real one is https://www.abports.co.uk/media/keumoz2c/07-4384_abp_report-summer-2021-single-pages-aw.pdf)
+12:14:40	Warning: 	Found for https://www.abports.co.uk/annual-review-2021/
+12:14:40	Warning: 	File has moved from https://www.abports.co.uk/annual-review-2021/ to https://issuu.com/abports21/docs/annual_review_2021
+12:15:17	Warning: 	Retry after error -4 (Incorrect length (100433 Bytes, 417073 expected)) at link https://www.abports.co.uk/media/034lyyge/abp-garston-ntm-007-2019.pdf (from https://www.abports.co.uk/locations/garston/)
+12:15:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.abports.co.uk/media/q04l3vl5/apb-garston-ntm-no-08-2019.pdf (from https://www.abports.co.uk/locations/garston/)
+12:15:17	Warning: 	Retry after error -4 (No data (connection closed)) at link https://www.abports.co.uk/media/iz3fqoqe/ntm-no_001-2018.pdf (from https://www.abports.co.uk/locations/garston/)
+12:15:18	Warning: 	Found for https://www.abports.co.uk/immroro/
+12:15:18	Warning: 	File has moved from https://www.abports.co.uk/immroro/ to /immroro/consultation/
+12:15:32	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.abports.co.uk/media/hyaoihxt/marine-policy-september-2018.pdf (from https://www.abports.co.uk/marine-information-and-compliance/group-policies/)
+12:15:47	Warning: 	Retry after error 500 (Internal Server Error) at link https://www.abports.co.uk/media/hyaoihxt/marine-policy-september-2018.pdf (from https://www.abports.co.uk/marine-information-and-compliance/group-policies/)
+12:15:52	Warning: 	Link https://www.abports.co.uk/immroro/preliminary-environmental-information-report-peir/ not scanned (follow robots meta tag)
+12:16:17	Error: 	"Internal Server Error" (500) after 2 retries at link https://www.abports.co.uk/media/hyaoihxt/marine-policy-september-2018.pdf (from https://www.abports.co.uk/marine-information-and-compliance/group-policies/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 13 minutes 18 seconds : 1214 links scanned, 1200 files written (666574134 bytes overall) [663131727 bytes received at 830992 bytes/sec], 10921882 bytes transferred using HTTP compression in 153 files, ratio 17%, 32.8 requests per connection
+(2 errors, 17 warnings, 0 messages)
